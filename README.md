@@ -1,5 +1,4 @@
-# 💫 About Me:
-Currently looking for Internships in 2025<br>College - IIIT Kota<br>CGPA - 8.6<br>Branch - ECE
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tushar._xo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-gautam-002661227/) 
